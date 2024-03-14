@@ -1,7 +1,7 @@
 # Animated-Vision
 A solution to the problem of learning mundane lectures without being able to visualize the content.
 
-# Animagination: Revitalizing Education Through Automated Animation
+#Revitalizing Education Through Automated Animation
 
 ## Introduction
 In the realm of online education, the struggle against mundane video lectures is real. Traditional formats often fail to ignite students' imagination, hindering their ability to fully grasp and retain course material. To combat this, we introduce Animagination – an AI-powered solution that transforms static lectures into dynamic, engaging animations.
